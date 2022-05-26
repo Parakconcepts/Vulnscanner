@@ -1,0 +1,9 @@
+220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+220-thirtyseven.qservers.net ESMTP Exim 4.95 #2 Thu, 12 May 2022 20:40:03 +0100 
+SSH-2.0-OpenSSH_5.3
+220-cloud227.hostgator.com ESMTP Exim 4.94.2 #2 Thu, 12 May 2022 14:54:32 -0500
+SSH-2.0-OpenSSH_7.4
++OK Dovecot ready.
+* OK [CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE NAMESPACE LITERAL+ STARTTLS AUTH=PLAIN AUTH=LOGIN] Dovecot ready.
+
+
